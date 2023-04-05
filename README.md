@@ -43,4 +43,4 @@ Per installare il layout è sufficiente eseguire il file setup.exe presente nell
 
 ## Modifica
 
-Scaricando il tool [MKSC](https://www.microsoft.com/en-us/download/details.aspx?id=102134) è possibile importare il file sorgente presente nel repository src/ItaLinux.klc e creare il proprio layout
+Scaricando il tool [MKSC](https://www.microsoft.com/en-us/download/details.aspx?id=102134) è possibile importare il file sorgente [ItaLinux.klc](src/ItaLinux.klc) e creare il proprio layout
