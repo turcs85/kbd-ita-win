@@ -1,8 +1,8 @@
 # Layout tastiera italiano di linux per windows
 
 [![License](https://img.shields.io/github/license/turcs85/kbd-ita-win)](https://github.com/turcs85/kbd-ita-win/blob/main/LICENSE)
-[![Windows](https://svgshare.com/i/ZhY.svg)](https://github.com/turcs85/kbd-ita-win/issues)
-![OpenIssues](https://img.shields.io/github/issues-raw/turcs85/kbd-ita-win)
+![Windows](https://img.shields.io/badge/os-windows-blue.svg)
+[![OpenIssues](https://img.shields.io/github/issues-raw/turcs85/kbd-ita-win)](https://github.com/turcs85/kbd-ita-win/issues)
 ![Files](https://img.shields.io/github/directory-file-count/turcs85/kbd-ita-win)
 ![Size](https://img.shields.io/github/repo-size/turcs85/kbd-ita-win)
 ![Downloads](https://img.shields.io/github/downloads/turcs85/kbd-ita-win/total)
